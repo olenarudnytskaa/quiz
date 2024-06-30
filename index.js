@@ -38,7 +38,7 @@ const answerMassiv =  [
     {name: '4. Which is now year? ',
     pictures:'./pictures/year.jpeg',
 answers: ['2023','2024','2030'], 
-help: '2023',
+help: '2024',
 link: 'https://www.timeanddate.com',
 rightanswer: './pictures/happy_line.png',
 wronganswer:'./pictures/sad.line.png',
