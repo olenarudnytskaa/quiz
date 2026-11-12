@@ -37,7 +37,7 @@ const answerMassiv =  [
 {four:
     {name: '4. Which is now year? ',
     pictures:'./pictures/year.jpeg',
-answers: ['2023','2024','2030'], 
+answers: ['2023','2026','2030'], 
 help: '2024',
 link: 'https://www.timeanddate.com',
 rightanswer: './pictures/happy_line.png',
@@ -46,7 +46,7 @@ audiogood:'./music/zvuk-aplodismentov-korotkiy-5-sek-33919.mp3',
 audio: './music/vozglas-razocharovanie-tolpyi.mp3'
 }},
 {five:
-    {name: '5.  Which country is it?  ',
+    {name: '5.  What country is this?  ',
     pictures:'./pictures/ukraine.jpg.avif',
 answers: ['Bulgaria','Ukraine','Australia'], 
 help: 'Ukraine',
